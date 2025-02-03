@@ -70,3 +70,7 @@ The **Skin Cancer Detection Project** aims to evaluate and compare the performan
    python app.py
    ```
 
+## images of Web Application Interface 
+- ![1.	Image Upload ](static/uploads/1.png)
+- ![2.	Results Display](static/uploads/2.png)
+
